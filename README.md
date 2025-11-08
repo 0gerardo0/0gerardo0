@@ -7,7 +7,7 @@ Desarrollando proyectos personales de infreaestructura y buscando activamente nu
 ---
 - ⚙️ **Uso diario:** `.py`, `.c`, `.sh`, `.dockerfile`, `.js`,  
 - 🌱 **Actualmente aprendiendo:** ~~Desarrollo de extensiones para GNOME Shell (con GJS)~~, Desarrollo de validación de sensores con pruebas de cero conocimiento.
-- 💬 **Pregúntame sobre:** Python, C, administración de servidores Linux, Docker y Git. (Y ahora también sobre criptografía 😎) 
+- 💬 **Pregúntame sobre:** Python y ML/DL, C, administración de servidores Linux, Docker y Git. (Y ahora también sobre criptografía 😎) 
 - 📫 **Cómo contactarme:** [Telegram](https://t.me/gerard0o0)
 - 🔗 **Portafolio / Blog:** [0gerardo0.github.io](https://0gerardo0.github.io)
 ---
