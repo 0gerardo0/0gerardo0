@@ -1,0 +1,23 @@
+name: Actualizar posts del blog
+
+on:
+  push:
+  workflow_dispatch: 
+  schedule:
+    - cron: '0 */12 * * *' 
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull in 0gerardo0.github.io posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://0gerardo0.github.io/feed.xml"
+          max_post_count: 3
+          template: "- [$title]($url)"
+          committer_username: "0gerardo0" 
