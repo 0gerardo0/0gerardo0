@@ -18,7 +18,7 @@ jobs:
         with:
           feed_list: "https://0gerardo0.github.io/feed.xml"
           max_post_count: 3
-          template: "$newline<p align='center'><a href='$url'>$title</a></p>"
+          template: "$newline [$title]($url)"
           committer_username: "0gerardo0"
           comment_tag_name: "BLOG-POST-LIST"
 
