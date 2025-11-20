@@ -64,12 +64,15 @@ Desarrollando proyectos personales de infreaestructura y buscando activamente nu
 </p>    
 
 ---
+
 <h3>Ultimas publicaciones del Blog</h3>  
 
 <!-- BLOG-POST-LIST:START --><li><a href="https://0gerardo0.github.io/posts/Mi-entorno-de-desarrollo-parte-1-kitty/">Mi Entorno de Desarrollo, Parte 1: Por qué Elegí Kitty</a></li>
 <li><a href="https://0gerardo0.github.io/posts/Por-que-tailscale-se-ha-vuelto-esencial-en-mi-homelab/">Adiós, CGNAT: Cómo Tailscale liberó mi red personal</a></li>
 <li><a href="https://0gerardo0.github.io/posts/internacionalizacion-de-una-extension-gnome/">Internacionalización de una extensión GNOME</a></li>
 <!-- BLOG-POST-LIST:END -->
+
+
 ---
 
 <h3 align="center">Mis Estadísticas de GitHub</h3>
