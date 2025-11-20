@@ -65,9 +65,10 @@ Desarrollando proyectos personales de infreaestructura y buscando activamente nu
 
 ---
 
-<h3>Últimas Publicaciones del Blog</h3>
+## Últimas Publicaciones del Blog
 
-<!-- BLOG-POST-LIST:START -->- [Mi Entorno de Desarrollo, Parte 1: Por qué Elegí Kitty](https://0gerardo0.github.io/posts/Mi-entorno-de-desarrollo-parte-1-kitty/)- [Adiós, CGNAT: Cómo Tailscale liberó mi red personal](https://0gerardo0.github.io/posts/Por-que-tailscale-se-ha-vuelto-esencial-en-mi-homelab/)- [Internacionalización de una extensión GNOME](https://0gerardo0.github.io/posts/internacionalizacion-de-una-extension-gnome/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 ---
 
 <h3 align="center">Mis Estadísticas de GitHub</h3>
