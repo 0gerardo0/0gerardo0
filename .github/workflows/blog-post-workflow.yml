@@ -1,8 +1,8 @@
 name: Latest post blog activity
 on:
-  workflow_dispatch:
   schedule:
     - cron: '0 0 * * *' # Runs once a day at 00:00 UTC
+  workflow_dispatch:
 permissions:
       contents: write
 jobs:
