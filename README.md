@@ -68,6 +68,8 @@ Desarrollando proyectos personales de infreaestructura y buscando activamente nu
 <h3>Últimas Publicaciones del Blog</h3>
 
 ---
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Mis Estadísticas de GitHub</h3>
 
