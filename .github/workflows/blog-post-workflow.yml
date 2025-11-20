@@ -1,0 +1,19 @@
+name: Latest post blog activity
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # Runs once a day at 00:00 UTC
+permissions:
+      contents: write
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest activity 
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "BLOG-POST-LIST"
+          max_post_count: 3
+          feed_list: "https://0gerardo0.github.io/feed.xml"
+          template: '<li><a href="$url">$title</a></li>$newline'

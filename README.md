@@ -61,11 +61,11 @@ Desarrollando proyectos personales de infreaestructura y buscando activamente nu
   <a href="https://github.com/0gerardo0/dotfiles">
     <img src="https://img.shields.io/badge/Dotfiles-Mi_Configuración-lightgrey?style=for-the-badge&logo=linux" alt="Dotfiles">
   </a>
-</p>
+</p>    
 
 ---
+<h3>Ultimas publicaciones del Blog</h3>  
 
-## Últimas Publicaciones del Blog
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 ---
