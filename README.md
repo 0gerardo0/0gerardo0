@@ -80,7 +80,7 @@ Desarrollando proyectos personales de infreaestructura y buscando activamente nu
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0gerardo0&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Estadísticas de Gerardo en GitHub">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0gerardo0&theme=tokyonight&hide_border=false" alt="Racha de Commits de Gerardo">
+  <img src="https://streak-stats.demolab.com/?user=0gerardo0&theme=tokyonight&hide_border=false" alt="Racha de Commits de Gerardo">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0gerardo0&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Lenguajes Más Usados de Gerardo">
 </p>
