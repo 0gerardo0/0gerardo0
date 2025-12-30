@@ -74,7 +74,7 @@ Desarrollando proyectos personales de infreaestructura y buscando activamente nu
 
 
 ---
-
+<!--
 <h3 align="center">Mis Estadísticas de GitHub</h3>
 
 <p align="center">
@@ -84,3 +84,4 @@ Desarrollando proyectos personales de infreaestructura y buscando activamente nu
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0gerardo0&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Lenguajes Más Usados de Gerardo">
 </p>
+-->
