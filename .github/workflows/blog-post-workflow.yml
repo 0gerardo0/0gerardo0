@@ -1,7 +1,7 @@
 name: Latest post blog activity
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs once a day at 00:00 UTC
+    - cron: '0 0 * * *' # Se ejecuta una vez al día
   workflow_dispatch:
 permissions:
       contents: write
@@ -15,5 +15,5 @@ jobs:
         with:
           comment_tag_name: "BLOG-POST-LIST"
           max_post_count: 3
-          feed_list: "https://0gerardo0.github.io/feed.xml"
+          feed_list: "https://api.allorigins.win/raw?url=https://0gerardo0.engineer/feed.xml"
           template: '<li><a href="$url">$title</a></li>$newline'
