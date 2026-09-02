@@ -29,12 +29,6 @@
   <a href="https://github.com/0gerardo0/dotfiles">
     <img src="https://img.shields.io/badge/Dotfiles-Chezmoi_+_Hyprland-lightgrey?style=for-the-badge&logo=linux" alt="Dotfiles">
   </a>
-  <a href="https://github.com/0gerardo0/hyprland-dynamic-wallpaper">
-    <img src="https://img.shields.io/badge/Hyprland__Wallpaper-Wallpaper_Dinámico-purple?style=for-the-badge&logo=hyprland" alt="Hyprland Dynamic Wallpaper">
-  </a>
-  <a href="https://github.com/0gerardo0/nbfc-guardian-pro">
-    <img src="https://img.shields.io/badge/NBFC__Guardian--Pro-Control_Térmico-green?style=for-the-badge&logo=linux" alt="NBFC Guardian Pro">
-  </a>
 </p>
 
 ---
