@@ -15,5 +15,5 @@ jobs:
         with:
           comment_tag_name: "BLOG-POST-LIST"
           max_post_count: 3
-          feed_list: "https://corsproxy.io/?https://blog.0gerardo0.engineer/feed.xml"
+          feed_list: "https://blog.0gerardo0.engineer/feed.xml"
           template: '<li><a href="$url">$title</a></li>$newline'
