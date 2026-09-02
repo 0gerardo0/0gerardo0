@@ -41,7 +41,10 @@
 
 <h3>Últimas publicaciones del Blog</h3>
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><li><a href="https://blog.0gerardo0.engineer/posts/enfriamiento-hp-arch/">Ingeniería Térmica en Laptops HP: Gestión de Recursos y Control de ACPI en Arch Linux</a></li>
+<li><a href="https://blog.0gerardo0.engineer/posts/Mi-entorno-de-desarrollo-parte-1-kitty/">Mi Entorno de Desarrollo, Parte 1: Por qué Elegí Kitty</a></li>
+<li><a href="https://blog.0gerardo0.engineer/posts/Por-que-tailscale-se-ha-vuelto-esencial-en-mi-homelab/">Adiós, CGNAT: Cómo Tailscale liberó mi red personal</a></li>
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
