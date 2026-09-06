@@ -35,9 +35,9 @@
 
 <h3>Últimas publicaciones del Blog</h3>
 
-<!-- BLOG-POST-LIST:START --><li><a href="https://blog.0gerardo0.engineer/posts/automatizacion-y-operaciones-del-homelab/">Automatización y Operaciones en mi Homelab: Backups, Monitoreo y Despliegue Continuo</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://blog.0gerardo0.engineer/posts/seo-tecnico-con-nginx-y-odoo/">SEO Técnico con Nginx y Odoo: Sitemap Limpio, Landing Pages y Desindexado de Staging</a></li>
+<li><a href="https://blog.0gerardo0.engineer/posts/automatizacion-y-operaciones-del-homelab/">Automatización y Operaciones en mi Homelab: Backups, Monitoreo y Despliegue Continuo</a></li>
 <li><a href="https://blog.0gerardo0.engineer/posts/enfriamiento-hp-arch/">Ingeniería Térmica en Laptops HP: Gestión de Recursos y Control de ACPI en Arch Linux</a></li>
-<li><a href="https://blog.0gerardo0.engineer/posts/Mi-entorno-de-desarrollo-parte-1-kitty/">Mi Entorno de Desarrollo, Parte 1: Por qué Elegí Kitty</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
