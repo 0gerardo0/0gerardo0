@@ -35,9 +35,9 @@
 
 <h3>Últimas publicaciones del Blog</h3>
 
-<!-- BLOG-POST-LIST:START --><li><a href="https://blog.0gerardo0.engineer/posts/zkp-validacion-sensores-iot-circom-groth16/">Validación de Sensores IoT con ZKP: Diseñando Circuitos en Circom y Setup con Groth16</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://blog.0gerardo0.engineer/posts/postmortem-postgresql-ssl-gid-odoo-database-selector/">Post-Mortem: El GID Huérfano que Tiró PostgreSQL y Expuso el Selector de Bases de Datos de Odoo</a></li>
+<li><a href="https://blog.0gerardo0.engineer/posts/zkp-validacion-sensores-iot-circom-groth16/">Validación de Sensores IoT con ZKP: Diseñando Circuitos en Circom y Setup con Groth16</a></li>
 <li><a href="https://blog.0gerardo0.engineer/posts/seo-tecnico-con-nginx-y-odoo/">SEO Técnico con Nginx y Odoo: Sitemap Limpio, Landing Pages y Desindexado de Staging</a></li>
-<li><a href="https://blog.0gerardo0.engineer/posts/automatizacion-y-operaciones-del-homelab/">Automatización y Operaciones en mi Homelab: Backups, Monitoreo y Despliegue Continuo</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
