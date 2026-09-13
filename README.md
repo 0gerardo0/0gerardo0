@@ -35,9 +35,9 @@
 
 <h3>Últimas publicaciones del Blog</h3>
 
-<!-- BLOG-POST-LIST:START --><li><a href="https://blog.0gerardo0.engineer/posts/postmortem-postgresql-ssl-gid-odoo-database-selector/">Post-Mortem: El GID Huérfano que Tiró PostgreSQL y Expuso el Selector de Bases de Datos de Odoo</a></li>
-<li><a href="https://blog.0gerardo0.engineer/posts/zkp-validacion-sensores-iot-circom-groth16/">Validación de Sensores IoT con ZKP: Diseñando Circuitos en Circom y Setup con Groth16</a></li>
-<li><a href="https://blog.0gerardo0.engineer/posts/seo-tecnico-con-nginx-y-odoo/">SEO Técnico con Nginx y Odoo: Sitemap Limpio, Landing Pages y Desindexado de Staging</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://blog.0gerardo0.engineer/posts/hardening-debian-12-odoo-18-nftables-sysctl-ssh-2fa/">Hardening en Debian 12 para Odoo 18: NFTables, Kernel Sysctl y SSH con 2FA Condicional</a></li>
+<li><a href="https://blog.0gerardo0.engineer/posts/haar-daubechies-symlets-extraccion-caracteristicas-wavelet-cnn/">Haar vs. Daubechies vs. Symlets: Evaluación Empírica de Wavelets 2D en Redes Convolucionales</a></li>
+<li><a href="https://blog.0gerardo0.engineer/posts/postmortem-postgresql-ssl-gid-odoo-database-selector/">Post-Mortem: El GID Huérfano que Tiró PostgreSQL y Expuso el Selector de Bases de Datos de Odoo</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
