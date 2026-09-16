@@ -35,9 +35,9 @@
 
 <h3>Últimas publicaciones del Blog</h3>
 
-<!-- BLOG-POST-LIST:START --><li><a href="https://blog.0gerardo0.engineer/posts/hardening-debian-12-odoo-18-nftables-sysctl-ssh-2fa/">Hardening en Debian 12 para Odoo 18: NFTables, Kernel Sysctl y SSH con 2FA Condicional</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://blog.0gerardo0.engineer/posts/simulacion-pendulo-doble-mecanica-lagrangiana-caos-python/">Simulación Numérica del Péndulo Doble: De la Mecánica Lagrangiana al Caos Determinista en Python</a></li>
+<li><a href="https://blog.0gerardo0.engineer/posts/hardening-debian-12-odoo-18-nftables-sysctl-ssh-2fa/">Hardening en Debian 12 para Odoo 18: NFTables, Kernel Sysctl y SSH con 2FA Condicional</a></li>
 <li><a href="https://blog.0gerardo0.engineer/posts/haar-daubechies-symlets-extraccion-caracteristicas-wavelet-cnn/">Haar vs. Daubechies vs. Symlets: Evaluación Empírica de Wavelets 2D en Redes Convolucionales</a></li>
-<li><a href="https://blog.0gerardo0.engineer/posts/postmortem-postgresql-ssl-gid-odoo-database-selector/">Post-Mortem: El GID Huérfano que Tiró PostgreSQL y Expuso el Selector de Bases de Datos de Odoo</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
