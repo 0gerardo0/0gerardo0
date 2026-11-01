@@ -46,8 +46,8 @@
   <a href="https://github.com/0gerardo0">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://blog.0gerardo0.engineer">
-    <img src="https://img.shields.io/badge/Blog-blog.0gerardo0.engineer-blue?style=for-the-badge&logo=readme&logoColor=white" alt="Blog">
+  <a href="https://0gerardo0.engineer">
+    <img src="https://img.shields.io/badge/Blog-0gerardo0.engineer-blue?style=for-the-badge&logo=readme&logoColor=white" alt="Blog">
   </a>
   <a href="https://t.me/gerard0o0">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
