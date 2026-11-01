@@ -35,9 +35,9 @@
 
 <h3>Últimas publicaciones del Blog</h3>
 
-<!-- BLOG-POST-LIST:START --><li><a href="https://0gerardo0.engineer/posts/terminus-almacenamiento-cifrado-c-python-argon2id-aislamiento/">Terminus: Almacenamiento Cifrado con C, Python, Argon2id y Aislamiento por Usuario</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://0gerardo0.engineer/posts/odoo-18-nginx-websocket-error-400-switching-protocols/">Odoo 18 y Nginx: Depurando el Error 400 y la Caída de WebSocket en Tiempo Real</a></li>
+<li><a href="https://0gerardo0.engineer/posts/terminus-almacenamiento-cifrado-c-python-argon2id-aislamiento/">Terminus: Almacenamiento Cifrado con C, Python, Argon2id y Aislamiento por Usuario</a></li>
 <li><a href="https://0gerardo0.engineer/posts/temas-animados-firefox-pixel-art-apng-mozilla-addons/">Temas Animados para Firefox: De Pixel-Art y APNG en Manifest V3 a la Tienda Oficial de Mozilla</a></li>
-<li><a href="https://0gerardo0.engineer/posts/fondos-dinamicos-linux-gnome-xml-hyprland-bash/">Fondos de Pantalla Dinámicos en Linux: De los XMLs Arcaicos de GNOME a un Daemon en Bash para Hyprland</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
